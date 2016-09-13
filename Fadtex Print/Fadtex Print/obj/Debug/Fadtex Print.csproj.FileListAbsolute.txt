@@ -1,0 +1,19 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\Fadtex Print.exe.config
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\obj\Debug\Fadtex Print.csprojResolveAssemblyReference.cache
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\obj\Debug\Interop.NiceEngine5WR.dll
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\obj\Debug\Fadtex Print.csproj.ResolveComReference.cache
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\obj\Debug\Fadtex_Print.Properties.Resources.resources
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\obj\Debug\Fadtex Print.csproj.GenerateResource.Cache
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\Fadtex Print.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\Fadtex Print.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\obj\Debug\Fadtex Print.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\obj\Debug\Fadtex Print.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\Fadtex Print\Fadtex Print\obj\Debug\Fadtex_Print.frmPrint.resources
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\HTKRestClient.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\HTKRestClient.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\MongoDB.Driver.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\MongoDB.Bson.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\MongoDB.Driver.xml
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\Fadtex Print\Fadtex Print\bin\Debug\MongoDB.Bson.xml
